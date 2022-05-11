@@ -1,12 +1,6 @@
-## Welcome to the Chart-Misfits intro 👋
+## Welcome to Chart-Misfits :vulcan_salute:
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+:scientist: High quality software built on top of chart analysis fundamentals </br>
+:rainbow: Trading strategy development based on various data sources </br>
+:artificial_satellite: Data-driven and result-oriented approaches </br>
+:monorail: Efficiency through automation  </br>
