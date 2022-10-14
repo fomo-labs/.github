@@ -1,4 +1,4 @@
-## Welcome to Fomo-Labs :vulcan_salute:
+## Welcome to Fomo Analytics :vulcan_salute:
 
 📈 We're developing software to generate data for Stock, Crypto and Forex markets
 
